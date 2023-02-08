@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Carolina Perlato👋
 
-- 🔭 Atualmente trabalho como auxiliar de enfermagem, porém em transição de carreira para tecnologia
+- 🔭 Estagiária - TI 
 - 👩🏼‍💻 Estudante de Analise e Desenvolvimento de Sistemas
 - 📚 Curso: Desenvolvimento Web na Udemy + DIO
 - 😄 Pronouns: ela/dela
